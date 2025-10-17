@@ -8,7 +8,9 @@ The website was built as a landing page for TOConnect (Toronto Connect). TOConne
 **Tech Stack**
 
 Frontend Framework: React
+
 Build Tool: Vite
+
 Styling: Tailwind CSS
 
 **Getting Started**

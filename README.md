@@ -16,17 +16,17 @@ Styling: Tailwind CSS
 Follow these steps to launch the project locally:
 
 1. Clone the Repository
-git clone https://github.com/yourusername/TOConnect.git
+//git clone https://github.com/yourusername/TOConnect.git
 
 2. Install Dependencies
-npm install
+//npm install
 
 3. Run the Development Server
-npm run dev
+//npm run dev
 
 4. Open in Browser
 Once the server starts, open your browser and go to:
-http://localhost:5173
+//http://localhost:5173
 
 **Project Structure**
 

@@ -1,0 +1,4 @@
+.text-white-stroke {
+  -webkit-text-stroke: 0.25px white;
+  text-stroke: 0.25px white; /* For old browsers */
+}

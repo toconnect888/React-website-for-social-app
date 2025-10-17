@@ -34,12 +34,16 @@ Once the server starts, open your browser and go to:
 
 **Project Structure**
 
-TOConnect/
-├── src/
-│   ├── components/   # Reusable UI components
-│   ├── pages/        # Main page views
-│   ├── assets/       # Images, icons, etc.
-│   └── App.jsx       # Root app component
-├── index.html
-├── package.json
-└── tailwind.config.js
+components/   # Reusable UI components
+
+pages/        # Main page views
+
+assets/       # Images, icons, etc.
+
+App.jsx       # Root app component
+
+index.html
+
+package.json
+
+tailwind.config.js
